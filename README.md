@@ -1,6 +1,6 @@
 # Fix: Electron Apps Crashing Due to Antigravity AppContainer ACL Pollution
 
-Electron apps started crashing for me on June 14th 2026. It took me a while to figure it out. Here's the whole deal.
+Electron apps started crashing for me on June 14th 2026 on all my computers back to back. It took me a while to figure it out. Here's the whole deal.
 
 > **Affected apps:** Any Electron-based app installed under `%LOCALAPPDATA%\Programs` — Signal, GitHub Desktop, Discord, Notion, OpenCode, VS Code, Spotify, etc.
 >
